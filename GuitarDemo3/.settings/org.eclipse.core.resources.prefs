@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/addGuitar.jsp=UTF-8
+encoding//WebContent/deleteGuitar.jsp=UTF-8
+encoding//src/guitarservlet/SearchGuitar.java=UTF-8
+encoding//src/model/Guitar.java=UTF-8
